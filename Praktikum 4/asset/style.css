@@ -1,0 +1,44 @@
+.zeus{
+float: left;
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.bob{
+    display: inline;
+    float: left;
+    object-fit: cover;
+}
+
+.poseidon{
+        float: left;
+        margin-left: 20px;
+        font-size: 17px;
+}
+
+.zz{
+    float: right;
+    margin-right: 50px; 
+    margin-top: 20px; 
+    font-size: 17 ; 
+    text-align: right;
+}
+
+.pdesc{
+    float:left;
+    margin-left: 50px;
+}
+
+.abc{
+    font-size: 17px;
+}
+
+.hij{
+    float: left;
+    margin-left: 50px;
+}
+
+.opq{
+    float: right; 
+    margin-left: 20px;
+}

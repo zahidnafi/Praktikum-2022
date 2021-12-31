@@ -1,0 +1,116 @@
+.zzz{
+    background-color: burlywood;
+}
+.xzy{
+    background-color: blanchedalmond;
+}
+
+
+
+
+.bdy{
+    max-width: 1000px;
+    border: 1px solid black;
+    margin:auto;
+}
+.nv{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.lu{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    padding: 0px;
+}
+.ukuran{
+    width: 15px;
+    background-color: blanchedalmond;
+}
+.jarak{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    padding: 0px;
+}
+.sty{
+    display: flex
+}
+.dv{
+    display: flex;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black ;
+    padding: 100px 30px;
+    gap: 50px;
+}
+.mn{
+    width: 60%
+}
+.dspy{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+.pa{
+    font-size: 23px;
+    font-weight: bolder
+}
+.lo{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-left: 10px
+}
+.il{
+    list-style-type: none
+}
+.pi{
+    font-weight: bolder
+}
+.warna{
+    color: blue
+}
+.asik{
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;
+    padding: 10px;
+    display: grid;
+    align-items: center
+}
+.tb{
+    width: 100%;
+    padding: 10px 0;
+    border-collapse: collapse
+}
+.rt{
+    padding: 10px 0
+}
+.dt{
+    text-align: right;
+}
+.ttd{
+    border-top: 2px solid white;
+    padding-left: 10px;
+    padding-top: 10px
+}
+.ddt{
+    border-top: 2px solid white
+}
+.dtt{
+    border-top: 2px solid white;
+    text-align: right;
+    font-weight: bolder
+}
+.lii{
+    display: flex;
+    gap: 10px ;
+}
+.apa{
+    background-color: burlywood;
+    text-decoration: none;
+    padding: 5px 7px;
+}
+.adding{
+    padding: 3px 7px;
+}
